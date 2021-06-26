@@ -43,9 +43,12 @@
    
    
 4. **实验室设备资源使用**
+
     a.604打印机使用[Pdf](https://github.com/gqduke/tyut_dm_research_resources/blob/main/laboratory%20experiment/604%E6%89%93%E5%8D%B0%E6%9C%BA%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.docx)
 
     b.服务器使用说明[Slides](https://github.com/gqduke/tyut_dm_research_resources/blob/main/laboratory%20experiment/%E6%B5%AA%E6%BD%AE%E6%9C%8D%E5%8A%A1%E5%99%A8.pptx)
+    
+    
 6. **实验室组会Slides** [Slides](https://github.com/gqduke/tyut_dm_research_resources/tree/main/Group_meeting)
  
  **参考：[重庆大学NLP小组资源](https://github.com/cqunlp/research_resources)**
