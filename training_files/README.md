@@ -27,8 +27,7 @@
 |                    | 多人协作开发         |                                       |                                                                                                                                                                 |
 | 机器学习           |   机器学习课程         |                 |      [机器学习课程](https://github.com/dair-ai/ML-YouTube-Courses)
 |                    |          参考书      |               |      [机器学习入门](https://github.com/gqduke/tyut_dm_research_resources/blob/main/training_files/MLBOOK.pdf)
-|                    |                      |                    |      [周志华南瓜书](https://github.com/gqduke/tyut_dm_research_resources/blob/main/training_files/PumpkinBook.pdf)
-                                                            |
+|                    |                      |                    |      [周志华南瓜书](https://github.com/gqduke/tyut_dm_research_resources/blob/main/training_files/PumpkinBook.pdf)                                                           |
 | 数据库基础         | 基本概念             | 数据库,表,视图,索引等                 |                                                                                                                                                                 |
 |                    | SQL查询              | 语句,多表查询,left join,right join    |     [SQL完全指南](https://github.com/gqduke/tyut_dm_research_resources/blob/main/training_files/sql%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8D%97.md)                                                                                                                                                        |
 |                    | 传统数据库系统       | MySql,Oracle,MS SQL基本操作           |                                                                                                                                                                 |
@@ -58,5 +57,4 @@
 |                   |                             |                              |              [LNCS(Tsinghua image)](http://springer.lib.tsinghua.edu.cn/book-series/?Subject=Artificial+Intelligence+(incl.+Robotics)&sortorder=asc&Publication=Lecture+Notes+in+Computer+Sciencesortorder=asc&sw=l&k=Lecture+Notes+in+Computer+Science)
 |                   |                             |                           |              [ACM Portal](https://dl.acm.org/) 
 |                   |                             |                           |              [Springer Link(Tsinghua image)](http://springer.lib.tsinghua.edu.cn/) 
-|                   |                             |                           |              Science Direct](https://www.sciencedirect.com/) 
-                                                                                  |
+|                   |                             |                           |              Science Direct](https://www.sciencedirect.com/)                                                                                |
