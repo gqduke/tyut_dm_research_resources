@@ -53,4 +53,4 @@
 
 
  
- **参考：[重庆大学NLP小组资源](https://github.com/cqunlp/research_resources)**
+ **[参考](https://github.com/cqunlp/research_resources)**
