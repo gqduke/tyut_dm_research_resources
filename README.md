@@ -30,7 +30,8 @@
       
     
 3. **实验及论文写作**
-    a.机器翻译学术论文写作方法和技巧 [Slides](https://github.com/cqunlp/research_resources/blob/master/research_sources/%E6%9C%BA%E5%99%A8%E7%BF%BB%E8%AF%91%E5%AD%A6%E6%9C%AF%E8%AE%BA%E2%BD%82%E6%96%87%E5%86%99%E4%BD%9C%E2%BD%85%E6%96%B9%E6%B3%95%E5%92%8C%E6%8A%80%E5%B7%A7.pdf)
+   
+   a.机器翻译学术论文写作方法和技巧 [Slides](https://github.com/cqunlp/research_resources/blob/master/research_sources/%E6%9C%BA%E5%99%A8%E7%BF%BB%E8%AF%91%E5%AD%A6%E6%9C%AF%E8%AE%BA%E2%BD%82%E6%96%87%E5%86%99%E4%BD%9C%E2%BD%85%E6%96%B9%E6%B3%95%E5%92%8C%E6%8A%80%E5%B7%A7.pdf)
 
     b.如何端到端地写科研论文 [Slides](https://github.com/gqduke/tyut_dm_research_resources/blob/main/research_sources/%E5%A6%82%E4%BD%95%E7%AB%AF%E5%88%B0%E7%AB%AF%E5%9C%B0%E5%86%99%E7%A7%91%E7%A0%94%E8%AE%BA%E6%96%87-%E5%A4%8D%E6%97%A6%20%E9%82%B1%E9%94%A1%E9%B9%8F.pdf)
     
