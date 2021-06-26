@@ -57,4 +57,4 @@
 |                   |                             |                              |              [LNCS(Tsinghua image)](http://springer.lib.tsinghua.edu.cn/book-series/?Subject=Artificial+Intelligence+(incl.+Robotics)&sortorder=asc&Publication=Lecture+Notes+in+Computer+Sciencesortorder=asc&sw=l&k=Lecture+Notes+in+Computer+Science)
 |                   |                             |                           |              [ACM Portal](https://dl.acm.org/) 
 |                   |                             |                           |              [Springer Link(Tsinghua image)](http://springer.lib.tsinghua.edu.cn/) 
-|                   |                             |                           |              Science Direct](https://www.sciencedirect.com/)                                                                                |
+|                   |                             |                           |              [Science Direct](https://www.sciencedirect.com/)                                                                                |
