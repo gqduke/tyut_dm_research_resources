@@ -1,4 +1,4 @@
-## 重庆大学NLP小组研究资源
+## 太原理工数据管理小组研究资源
 
 此仓库作为我们实验室研究资源的备份，包含以下内容：
 
@@ -12,9 +12,9 @@
 
     c.OpenPAI深度学习平台的使用方法 [Slides](https://github.com/cqunlp/research_resources/blob/master/training_files/2019_2_OpenPAI_training.pdf)
 
-    d.怎样阅读NLP论文 [Slides](https://github.com/cqunlp/research_resources/blob/master/training_files/2019_3_How_to_read_nlp_papers.pdf)
+    d.怎样阅读论文 [Slides](https://github.com/cqunlp/research_resources/blob/master/training_files/2019_3_How_to_read_nlp_papers.pdf)
 
-2. **国内外NLP研究全过程相关Slides**
+2. **国内外研究全过程相关Slides**
 
     a.研究生生活怎么“混” [Slides](https://github.com/cqunlp/research_resources/blob/master/research_sources/20200314_%E7%A0%94%E7%A9%B6%E7%94%9F%E7%94%9F%E6%B4%BB%E6%80%8E%E4%B9%88%E6%B7%B7.pdf)
 
@@ -35,3 +35,5 @@
     f.怎样做Poster [Slides](https://github.com/cqunlp/research_resources/blob/master/research_sources/makeup_ijcnlp_2017.pdf)
 
 3. **实验室组会Slides** [Slides](https://github.com/cqunlp/research_resources/tree/master/group_meeting)
+ 
+ **参考：重庆大学NLP小组资源(https://github.com/cqunlp/research_resources/tree/master/group_meeting)**
