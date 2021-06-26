@@ -18,7 +18,7 @@
     
     f.研究生培养要求和指南[Slides](https://github.com/gqduke/tyut_dm_research_resources/blob/main/research_sources/%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9F%B9%E5%85%BB%E8%A6%81%E6%B1%82%E5%92%8C%E6%8C%87%E5%8D%97-%E5%8D%97%E5%A4%A7%20%E9%BB%84%E5%AE%9C%E5%8D%8E.pdf)
 
-2. **如何做研究Slides**
+2. **如何做研究**
 
     a.做研究和写论文 [Slides](https://github.com/gqduke/tyut_dm_research_resources/blob/main/research_sources/%E5%81%9A%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%86%99%E8%AE%BA%E6%96%87-%E5%8D%97%E5%A4%A7%20%E5%91%A8%E5%BF%97%E5%8D%8E.pdf)
 
@@ -50,5 +50,7 @@
     
     
 6. **实验室组会Slides** [Slides](https://github.com/gqduke/tyut_dm_research_resources/tree/main/Group_meeting)
+
+
  
  **参考：[重庆大学NLP小组资源](https://github.com/cqunlp/research_resources)**
