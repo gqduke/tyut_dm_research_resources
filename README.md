@@ -49,8 +49,17 @@
     b.服务器使用说明[Slides](https://github.com/gqduke/tyut_dm_research_resources/blob/main/laboratory%20experiment/%E6%B5%AA%E6%BD%AE%E6%9C%8D%E5%8A%A1%E5%99%A8.pptx)
     
     
-6. **实验室组会Slides** [Slides](https://github.com/gqduke/tyut_dm_research_resources/tree/main/Group_meeting)
-
+5. **实验室组会Slides** [Slides](https://github.com/gqduke/tyut_dm_research_resources/tree/main/Group_meeting)
+6. **电子书资源**（/EBooks）
+   1. Python深度学习
+   2. Python编程：从入门到实践
+   3. 《DiveIntoDL》中文版
+   4. C-Primer-Plus6
+   5. git使用指南
+   6. 代码之美 中文完整版
+   7.  数据库系统概论-第5版 
+   8.  编译原理（中文第二版）_扫描版_22.1M_高清重
+   9.  计算机基础
 
  
  **[参考](https://github.com/cqunlp/research_resources)**
