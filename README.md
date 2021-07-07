@@ -35,7 +35,7 @@
     1. 604打印机使用[Pdf](https://github.com/gqduke/tyut_dm_research_resources/blob/main/laboratory%20experiment/604%E6%89%93%E5%8D%B0%E6%9C%BA%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.docx)
     2. 服务器使用说明[Slides](https://github.com/gqduke/tyut_dm_research_resources/blob/main/laboratory%20experiment/%E6%B5%AA%E6%BD%AE%E6%9C%8D%E5%8A%A1%E5%99%A8.pptx)
     3. AIStation_Remote_Access.docx : 服务器远程连接教程及其它相关信息
-    4. FRP内网穿透NotJust4AIStation（Recommended）.zip
+    4. FRP内网穿透NotJust4AIStation（Recommended）.zip[Link](https://github.com/gqduke/tyut_dm_research_resources/tree/main/Lab_equipments/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F%E8%BD%AF%E4%BB%B6)
     5. 硬件设备密码及使用情况.7z :常用设备密码
 
     
