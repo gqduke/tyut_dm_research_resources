@@ -43,7 +43,7 @@
 | 文献管理           | 外文文献             | Mendely                               |                                                                                                                                                                 |
 |                    | 中文文献             | CNKI E-Study                          |                                                                                                                                                                 |
 | 论文编辑器         | LaTeX                | VSCode + LaTeX,或其他文本编辑器       |   [Latex使用手册](https://github.com/gqduke/tyut_dm_research_resources/blob/main/training_files/latex%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.pdf)              
-|        |                | mathpix       |   [数学公式截图、pdf文件自动转latex编码工具](https://mathpix.com/)   
+|                    |                | mathpix       |   [数学公式截图pdf文件自动转latex编码工具](https://mathpix.com/)   
                                                                                 |
 | 学术论文写作          | 论文写作               |     |[机器翻译学术论⽂写作⽅方法和技巧.pdf](https://github.com/lvyufeng/1701_research_src/blob/master/organized_documents/admission_training/机器翻译学术论⽂文写作⽅方法和技巧.pdf)       |
 | Linux基础          | 命令行               | apt,dkpg(Ubuntu),yum(CentOS)等使用    |   [实用命令行命令大列表](https://github.com/ankitshah009/awesome-terminal-hacks)                                                                                                                                                           |
