@@ -42,18 +42,19 @@
 |                    | 第三方库的导入       |                                       |                                                                                                                                                                 |
 | 文献管理           | 外文文献             | Mendely                               |                                                                                                                                                                 |
 |                    | 中文文献             | CNKI E-Study                          |                                                                                                                                                                 |
-| 论文编辑器         | LaTeX                | VSCode + LaTeX,或其他文本编辑器       |   [Latex使用手册](https://github.com/gqduke/tyut_dm_research_resources/blob/main/training_files/latex%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.pdf)              
+| 论文编辑器         | LaTeX                | VSCode + LaTeX,或其他文本编辑器       |   [Latex使用手册](https://github.com/gqduke/tyut_dm_research_resources/blob/main/training_files/latex%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.pdf)   
+|                   |          在线latex编辑                   |           Overleaf                          |              [Overleaf](https://www.overleaf.com/)  
 |                    |                | mathpix       |   [数学公式截图pdf文件自动转latex编码工具](https://mathpix.com/) |
 | 学术论文写作          | 论文写作               |     |[机器翻译学术论⽂写作⽅方法和技巧.pdf](https://github.com/lvyufeng/1701_research_src/blob/master/organized_documents/admission_training/机器翻译学术论⽂文写作⽅方法和技巧.pdf)       |
 | Linux基础          | 命令行               | apt,dkpg(Ubuntu),yum(CentOS)等使用    |   [实用命令行命令大列表](https://github.com/ankitshah009/awesome-terminal-hacks)                                                                                                                                                           |
 |                    | ssh使用              | ssh免密登录,远程连接                  |                                                                                                                                                                 |
 | Windows基础        | 命令行               |                                       |                                                                                                                                                                 |
 |                    | Windows下ssh应用     | putty                                 |                                                                                                                                                                 |
-| 其他               | 常用网站链接                |           Sci-Hub                            |              [Sci-Hub](https://sci-hub.se/)        
+| 常用网站链接               |     文献检索网站         |           Sci-Hub                            |              [Sci-Hub](https://sci-hub.se/)        
 |                   |                             |           arXiv                           |              [arXiv](https://arxiv.org/list/cs/recent)        
 |                   |                             |           DBLP                            |              [dblp](https://dblp.uni-trier.de/)      
-|                   |                             |              Google Scholar               |              [Google Scholar](https://scholar.google.com/citations?user=rSVIHasAAAAJ&hl=en)      
-|                   |                             |           Overleaf                          |              [Overleaf](https://www.overleaf.com/)      
+|                   |                             |           Google Scholar               |              [Google Scholar](https://scholar.google.com/citations?user=rSVIHasAAAAJ&hl=en)      
+    
 |                   |                             |          Digital Library                    |              [IEEEXplore](https://ieeexplore.ieee.org/Xplore/home.jsp) 
 |                   |                             |                              |              [LNCS(Tsinghua image)](http://springer.lib.tsinghua.edu.cn/book-series/?Subject=Artificial+Intelligence+(incl.+Robotics)&sortorder=asc&Publication=Lecture+Notes+in+Computer+Sciencesortorder=asc&sw=l&k=Lecture+Notes+in+Computer+Science)
 |                   |                             |                           |              [ACM Portal](https://dl.acm.org/) 
