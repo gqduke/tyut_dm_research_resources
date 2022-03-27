@@ -53,8 +53,7 @@
 | 常用网站链接               |     文献检索网站         |           Sci-Hub                            |              [Sci-Hub](https://sci-hub.se/)        
 |                   |                             |           arXiv                           |              [arXiv](https://arxiv.org/list/cs/recent)        
 |                   |                             |           DBLP                            |              [dblp](https://dblp.uni-trier.de/)      
-|                   |                             |           Google Scholar               |              [Google Scholar](https://scholar.google.com/citations?user=rSVIHasAAAAJ&hl=en)      
-    
+|                   |                             |           Google Scholar               |              [Google Scholar](https://scholar.google.com/citations?user=rSVIHasAAAAJ&hl=en)          
 |                   |                             |          Digital Library                    |              [IEEEXplore](https://ieeexplore.ieee.org/Xplore/home.jsp) 
 |                   |                             |                              |              [LNCS(Tsinghua image)](http://springer.lib.tsinghua.edu.cn/book-series/?Subject=Artificial+Intelligence+(incl.+Robotics)&sortorder=asc&Publication=Lecture+Notes+in+Computer+Sciencesortorder=asc&sw=l&k=Lecture+Notes+in+Computer+Science)
 |                   |                             |                           |              [ACM Portal](https://dl.acm.org/) 
