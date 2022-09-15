@@ -29,7 +29,7 @@
     5. 怎样做Poster [Slides](https://github.com/gqduke/tyut_dm_research_resources/blob/main/research_sources/%E5%A6%82%E4%BD%95%E5%81%9A%E4%B8%80%E4%B8%AA%E7%B2%BE%E5%BD%A9%E7%9A%84%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A-%E5%93%88%E5%B7%A5%E5%A4%A7%20%E8%BD%A6%E4%B8%87%E7%BF%94.pdf)
    
 4. **实验室设备资源使用**
-    1. 607打印机使用教程：[PDF](https://github.com/gqduke/tyut_dm_research_resources/blob/main/Lab_equipments/607%E6%89%93%E5%8D%B0%E6%9C%BA%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.pdf)
+    1. 607打印机使用教程：[PDF](https://github.com/gqduke/tyut_dm_research_resources/blob/main/Lab_equipments/607%E6%89%93%E5%8D%B0%E6%9C%BA%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%EF%BC%88%E6%89%93%E5%8D%B0%E6%9C%BAip%E6%9B%B4%E6%96%B0%E4%B8%BA101.7.174.116%EF%BC%89.pdf)
     2. 浪潮服务器（介绍、使用教程）[Slides](https://github.com/gqduke/tyut_dm_research_resources/blob/main/Lab_equipments/%E6%B5%AA%E6%BD%AE%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%88%E4%BB%8B%E7%BB%8D%E3%80%81%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%EF%BC%89.pptx)，[AIStation新建镜像](https://github.com/gqduke/tyut_dm_research_resources/blob/main/Lab_equipments/%E6%B5%AA%E6%BD%AE%E6%9C%8D%E5%8A%A1%E5%99%A8jupter%E5%92%8Cssh%E9%85%8D%E7%BD%AE%EF%BC%88%E6%96%B0%E5%BB%BA%E9%95%9C%E5%83%8F%E5%8F%82%E8%80%83%E6%AD%A4%E6%96%87%E6%A1%A3%EF%BC%89.txt)
     3. 服务器的远程访问方法：
        1. AIStationRemoteAccess介绍（文档中远程访问方法暂已废弃，现使用tyutdmg.cn:6088即可）[PDF](https://github.com/gqduke/tyut_dm_research_resources/blob/main/Lab_equipments/AIStationRemoteAccess%E4%BB%8B%E7%BB%8D%EF%BC%88%E5%85%B6%E4%B8%AD%E8%BF%9C%E7%A8%8B%E8%AE%BF%E9%97%AE%E6%96%B9%E6%B3%95%E5%B7%B2%E5%BA%9F%E5%BC%83%EF%BC%89.pdf)
